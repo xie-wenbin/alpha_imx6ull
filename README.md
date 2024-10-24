@@ -1,6 +1,8 @@
 # alpha_imx6ull
-1.uboot²Ö¿â
+1.uboot ä»“åº“
+
 imx6ull_uboot_4.1.15 
 
-2.kernel²Ö¿â
+2.kernel ä»“åº“
+
 imx6ull_kernel_4.1.15
