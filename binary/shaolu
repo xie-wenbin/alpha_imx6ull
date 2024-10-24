@@ -1,0 +1,1 @@
+sudo dd if=u-boot.imx of=/dev/sdb bs=1K seek=1 && sync
